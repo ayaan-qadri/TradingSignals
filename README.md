@@ -10,4 +10,4 @@ How to use:
 Thats's it !
 
 DISCLAIMER:
-I'm not responsible for your any profit and loss risk so be careful and it will never be 100% accurate.
+In starting analys it then you can start real trading with tool,Still I'm not responsible for your any profit and loss so be careful and trade using this tool at your own risk,Remmeber it will never be 100% accurate.
