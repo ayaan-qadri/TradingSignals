@@ -10,4 +10,4 @@ How to use:
 Thats's it !
 
 DISCLAIMER:
-I'm not responsible for your any profit and risk so be careful and it will never be 100% accurate.
+I'm not responsible for your any profit and loss risk so be careful and it will never be 100% accurate.
