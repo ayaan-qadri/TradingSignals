@@ -4,7 +4,7 @@ This tool made for PCR signals which provide you BUY and SELL's signles.
 How to use:
 
 ```pip install requests```
-
+```https://github.com/PentW0lf/TradingSignals.git```
 ```python3 TradingSignals.py```
 
 Or
