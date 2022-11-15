@@ -3,11 +3,9 @@ This tool made for PCR signals which provide you BUY and SELL's signles.
 
 How to use:
 
-```
-pip install requests```
+```pip install requests```
 
-```
-python3 TradingSignals.py```
+```python3 TradingSignals.py```
 
 Thats's it !
 
