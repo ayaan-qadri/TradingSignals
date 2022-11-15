@@ -7,6 +7,10 @@ How to use:
 
 ```python3 TradingSignals.py```
 
+Or
+
+```You can use EXE file to run this(only double click on exe file).```
+
 Thats's it !
 
 DISCLAIMER:
