@@ -13,6 +13,8 @@ Or
 
 ```You can use EXE file to run this(double click on exe file).```
 
+<b> MAKE SURE YOU ARE CONNECTED WITH INTERNET</b>
+
 Thats's it !
 
 DISCLAIMER:
