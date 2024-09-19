@@ -1,5 +1,5 @@
 # TradingSignals
-This tool made for PCR signals which provide you BUY and SELL's signles.
+This tool is specifically designed to generate PCR (Put-Call Ratio) signals, providing clear BUY and SELL indicators based on market conditions. The PCR is a valuable metric that helps traders assess market sentiment and make informed decisions. By analyzing the ratio of put to call options, this tool aims to give you timely signals for potential trading opportunities. While it serves as a useful guide, it's important to remember that no tool is flawless, and market conditions can change rapidly. Always use the signals in conjunction with your own research and risk management strategies.
 
 How to use:
 
@@ -18,4 +18,4 @@ Or
 Thats's it !
 
 DISCLAIMER:
-In starting analys it then you can start real trading with tool,Still I'm not responsible for your any profit and loss so be careful and trade using this tool at your own risk,Remmeber it will never be 100% accurate.
+Before engaging in real trading, we strongly recommend starting with an analysis using this tool. Please note, I am not responsible for any profits or losses incurred while using this tool. Trading involves risk, and you should proceed with caution. Always trade at your own risk, as this tool is not guaranteed to be 100% accurate.
